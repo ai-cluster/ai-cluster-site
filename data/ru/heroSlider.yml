@@ -1,0 +1,57 @@
+enable : true
+sliderItem:
+  - subHeading : АНО - Информационно-семантическое общество
+    heading : Трансфер технологий. Инновационный менеджмент. Коммерциализация научных разработок.
+    # description : создание посевного венчурного фонда для поддержки венчурных проектов  с момента старта проекта <br> инвестиции в инфраструктуру AI-кластера <br> преимущественное право на проведении НИОКР <br> формирование схемы для получения прибыли на вложенные инвестиции
+    description1 : Мы соединяем науку, образование и производство. <br><br> Решаем задачи индустриальных партнеров с помощью методов Искусственного Интеллекта.
+    # bgImage : images/banner/banner-1.jpg
+    bgImage : images/banner/banner-13-my.jpg
+    dataIcon : ti-comments
+    # dataIcon : ti-package
+    # dataIcon : ti-money
+    dataText : AI кластер
+    btn : 
+      enable : true
+      btnText: Подробнее
+      btnURL : 'posts/elaboration'
+      
+  - subHeading : Вместе с индустриальными партнерами
+    heading : Мы решаем задачи, используя последние достижения науки
+    # description : Индустриальные партнеры 
+    description1 : Для решения задач формируется проектная команда с необходимыми компетенциями - <br> включая ученых, разработчиков, инженеров.
+    # bgImage : images/banner/banner-2.jpg
+    bgImage : images/banner/banner-23-my.jpg
+    # dataIcon : ti-bar-chart
+    dataIcon : ti-package
+    dataText : Индустриальные партнеры
+    btn : 
+      enable : true
+      btnText: Подробнее
+      btnURL : 'posts/elaboration'
+      
+  - subHeading : В сотрудничестве с институтами Новосибирского Научного Центра
+    heading : Мы внедряем последние достижения науки в производство
+    description1 : Наш подход основывается на уникальных разработках Semantic AI, разрабатываемых в ННЦ еще со времен СССР. Это позволяет создавать "Ответственный Искусственный Интеллект", логика принятия решений которого понятна человеку.
+    # bgImage : images/banner/banner-3.jpg
+    bgImage : images/banner/banner-31-my.jpg
+    # dataIcon : ti-money
+    dataIcon : ti-package
+    dataText : Наука и Производство
+    btn : 
+      enable : true
+      btnText: Подробнее
+      btnURL : 'posts/elaboration'
+      
+  - subHeading : Мы тесно сотрудничаем
+    heading : с Новосибирским Государственным Университетом
+    description1 : НГУ является элементом инновационной инфраструктуры НСО и РФ. <br> <br> Наша цель - <br> обеспечить комплексное развитие инновационной экосистемы университета, синхронизацию работы с объектами инновационной инфраструктуры региона, а также развитие кооперации НГУ с высокотехнологичным бизнесом.
+    # bgImage : images/banner/banner-4.jpg
+    bgImage : images/banner/banner-42-my.jpg
+    dataIcon : ti-package
+    dataText : Образование
+    btn : 
+      enable : true
+      btnText: Подробнее
+      btnURL : 'posts/elaboration'
+     
+
