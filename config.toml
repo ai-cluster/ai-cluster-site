@@ -21,7 +21,8 @@ mapLongitude = "83.090508"
 # mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-3124786-31"
+# googleAnalitycsID = "Your ID"
 
 # mailchimp subsciption
 mailchimpFormAction = "https://eyeline.us3.list-manage.com/subscribe/post?u=ceb1e37d329147705560caae4&amp;id=ba8ba1e3b3" 
