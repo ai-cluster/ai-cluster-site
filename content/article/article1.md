@@ -1,38 +1,29 @@
 ---
 # title: "Finance Consultancy"
-title: "Семантические предметно-ориентированные языки"
-date: 2019-07-22T14:48:03+06:00
+title: "Искусственный интеллект научился показывать баскетбольным тренерам исход игры"
+date: 2019-09-28T14:48:03+06:00
 description : "This is meta description"
 bgImage: images/background/page-title.jpg
 # tag : Ecommerce Advice
-tag : Статьи Пальчунова
+tag : Искусственный интеллект
 # image : images/project/project-8.jpg
-image : images/article/article-1.jpg
+image : images/article/smi-1.jpg
 # client : Baximco Ltd.
-category : Статьи Пальчунова
+category : Искусственный интеллект
 # category : Market Strategy
 expertise : Mobile App
 liveDemoURL : '#'
 caseStudy : '#'
 type : article
 # type : project
-filterCategories: Статьи-Пальчунова
+filterCategories: Искусственный-интеллект
+author: ferra.ru
+brochureURL: https://www.ferra.ru/news/techlife/iskusstvennyi-intellekt-nauchilsya-pokazyvat-basketbolnym-treneram-iskhod-igry-28-09-2019.htm
 ---
 
-### Apollo For Baximco Inc. Australia
+### В зависимости от выбранной ими тактики
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+###### Исследователи создали программу на основе искусственного интеллекта, способную смоделировать для тренера ход игры в баскетбол при выборе определённой тактики. Компьютер, по сути, показывает потенциальную реакцию противника.
+Сначала эскизы с тактикой тренера загружаются на виртуальную тактическую доску. На ней красными точками обозначена одна команда, а синими – другая. Затем искусственный интеллект моделирует движения игроков на поле. Таким образом, тренер может понять, насколько выигрышна его тактика.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-###### Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-###### Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Aftermath Of Apollo
-![Chart](../../images/service/service-chart.jpg)
-
-#### Market Analysis 2017
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+Программу разработали при помощи Национальной баскетбольной ассоциации. При её создании использовались данные о поведении реальных игроков. Один из алгоритмов пытается генерировать реалистичные движения баскетболистов, а другой проверяет, насколько эта модель соответствует реальным данным.

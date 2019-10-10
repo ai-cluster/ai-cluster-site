@@ -1,14 +1,14 @@
-title : Наши статьи
-content : Краткое описание <br> об авторах, темах докладов и тд.
+title : Новости СМИ
+content : темы, <br> посвященные искуственному интеллекту и цифровизации
 filterList : 
-  - filterTitle : Статьи Пальчунова
-    dataFilter : Статьи-Пальчунова
+  - filterTitle : Искусственный интеллект
+    dataFilter : Искусственный-интеллект
 
-  - filterTitle : Статьи Витяева
-    dataFilter : Статьи-Витяева
+  - filterTitle : Цифровизация
+    dataFilter : Цифровизация
     
-  - filterTitle : По Expasoft
-    dataFilter : По-Expasoft
+  - filterTitle : Экономические новости
+    dataFilter : Экономические-новости
     
   # - filterTitle : Dynamic Development
   #   dataFilter : Dynamic-Development

@@ -1,9 +1,9 @@
-{{ "<!-- Sidebar -->" | safeHTML }}
+{{ "<!-- Sidebar1 -->" | safeHTML }}
 <div class="col-lg-4">
     <div class="bg-white px-4 py-100 sidebar-box-shadow">
         {{ "<!-- categories -->" | safeHTML }}
         <div class="mb-50">
-            <h4 class="mb-3">Категории</h4>
+            <h4 class="mb-3">Разделы</h4>
             {{- if isset .Site.Taxonomies "categories" }}
             {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
             <ul class="list-unstyled mb-0">
@@ -19,13 +19,13 @@
 
         {{ "<!-- Widget Recent Post -->" | safeHTML }}
         <div class="mb-50">
-            <h4 class="mb-3">Новости компании</h4>
-            {{ range first 3 (where .Site.Pages "Type" "post") }}
-            {{ "<!-- post -->" | safeHTML }}
+            <h4 class="mb-3">Последние новости</h4>
+            {{ range first 3 (where .Site.Pages "Type" "post1") }}
+            {{ "<!-- post1 -->" | safeHTML }}
             <div class="d-flex py-3 border-bottom">
                 <div class="mr-4">
                     <a href="{{ .Permalink }}">
-                        <img class="rounded img-fluid recent-post-thumb" src="{{ .Params.image | absURL }}" alt="post-thumb">
+                        <img class="rounded img-fluid recent-post1-thumb" src="{{ .Params.image | absURL }}" alt="post1-thumb">
                     </a>
                 </div>
                 <div>
