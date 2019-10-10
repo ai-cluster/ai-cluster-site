@@ -8,8 +8,8 @@
                     <div class="p-4">
                         <h3>{{ .Title }}</h3>
                         <ul class="list-inline d-block pb-4 border-bottom mb-3">
-                            <li class="list-inline-item text-color">Автор {{ .Params.Author }}</li>
-                            <li class="list-inline-item text-color">Дата публикации {{ .PublishDate.Format "02 Jan" }}</li>
+                            <li class="list-inline-item text-color">Источник/Автор: {{ .Params.Author }}</li>
+                            <li class="list-inline-item text-color">Дата публикации: {{ .PublishDate.Format "02 Jan" }}</li>
                             <li class="list-inline-item text-color">Тэги:
                                 {{ range .Params.Tags }}
                                 <a class="text-color" href="{{ "tags/" | absURL }}{{ . | lower }}">{{ . }}</a>

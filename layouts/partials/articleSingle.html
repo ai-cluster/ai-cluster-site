@@ -7,8 +7,8 @@
                 {{ "<!-- Brochure -->" | safeHTML }}
                 <div class="rounded border py-3 px-4 mb-50">
                     <i class="d-inline-block mr-1 text-dark ti-files" style="font-size: 20px;"></i>
-                    <h4 class="mb-1 d-inline-block"> Статья полностью </h4>
-                    <a class="font-secondary text-color d-block ml-4" href="{{ .Params.BrochureURL | absURL }}">Скачать pdf</a>
+                    <h4 class="mb-1 d-inline-block"> Источник: </h4>
+                    <a class="font-secondary text-color d-block ml-4" href="{{ .Params.BrochureURL | absURL }}">Перейти на сайт</a>
                 </div>
                 {{/*  {{ "<!-- Opening Hours -->" | safeHTML }}
                 <div class="mb-50">
@@ -25,7 +25,7 @@
             </aside>
             {{ "<!-- article single content -->" | safeHTML }}
             <div class="col-lg-8 order-lg-2 order-1">
-                <img class="img-fluid w-100 mb-60 rounded-top" src="{{ .Params.Image | absURL }}" alt="article">
+                <img class="img-fluid w-90 mb-60 rounded-top" src="{{ .Params.Image | absURL }}" alt="article">
                 <div class="article-content">
                     {{ .Content }}
                 </div>

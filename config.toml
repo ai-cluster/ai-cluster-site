@@ -54,16 +54,22 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
     weight = 2
     
     [[Languages.ru.menu.nav]]
-    name = "Проекты/Направления"
+    name = "Проекты"
     # name = "Service"
     URL = "/service"
     weight = 3
     
     [[Languages.ru.menu.nav]]
     # name = "Blog"
-    name = "Новости/Статьи"
+    name = "Наши Новости/Статьи"
     URL = "/blog"
     weight = 4
+
+    # новости из СМИ
+    [[Languages.ru.menu.nav]]
+    name = "СМИ"
+    URL = "/article"
+    weight = 5
     
     [[Languages.ru.menu.nav]]
     # name = "Team"
