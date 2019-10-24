@@ -2,7 +2,7 @@
 {{ "<!-- article -->" | safeHTML }}
 <section class="section">
     <div class="container">
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-lg-12 text-center">
                {{ with $data.article.title }} <h2 class="mb-2">{{ . }}</h2> {{ end }}
                {{ with $data.article.content }} <p class="mb-40">{{ . | safeHTML }}</p> {{ end }}
@@ -17,11 +17,11 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="row filtr-container">
             {{ range .Data.Pages }}
             {{ "<!-- article item -->" | safeHTML }}
-            <div class="col-lg-3 col-md-4 col-sm-6 p-0 filtr-item" data-category="{{ .Params.FilterCategories }}">
+            <div class="col-lg-3 col-md-4 col-sm-4 p-1 filtr-item" data-category="{{ .Params.FilterCategories }}">
                 <div class="position-relative">
                     <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="article-image">
                     <div class="article-info">

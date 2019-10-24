@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-23T11:35:34+06:00
 description : "This is meta description"
 author: Пальчунов Д.Е.
-brochureURL: статьи Пальчунова/Семантические_предметно_ориентированные.pdf
+brochureURL: Palchunov/semant_predm_orient.pdf
 type: post
 image: images/blog/blog-palch-1.jpg
 categories: 

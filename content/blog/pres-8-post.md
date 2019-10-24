@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-06T11:35:34+06:00
 description : "This is meta description"
 author: АНО «ИНФОРМАЦИОННО-СЕМАНТИЧЕСКОЕ ОБЩЕСТВО»
-brochureURL: Презентации/ММЦ .pdf
+brochureURL: Pres/mmc.pdf
 type: post
 image: images/blog/blog-pres-8.jpg
 categories: 

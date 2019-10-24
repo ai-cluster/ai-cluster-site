@@ -8,9 +8,9 @@ type: npo
 # image: images/blog/blog-3.jpg
 image: images/blog/our-approach.jpg
 categories: 
-  - "Наш подход"
-# tags:
-  # - "Advice"
+  - "Актуальные темы"
+tags:
+  - ai-cluster
 ---
 
 Венчурные инвестиции в наукоемкие проекты и компании (deep tech) остаются одними из наиболее популярных инструментов на Американском и Европейском рынках.

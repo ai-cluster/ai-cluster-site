@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-31T11:35:34+06:00
 description : "This is meta description"
 author: АНО «ИНФОРМАЦИОННО-СЕМАНТИЧЕСКОЕ ОБЩЕСТВО»
-brochureURL: Презентации/МЕТОДОЛОГИЯ ЦЭ 1.pdf
+brochureURL: Pres/metodologia_1.pdf
 type: post
 image: images/blog/blog-pres-7.jpg
 categories: 

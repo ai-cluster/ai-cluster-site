@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-30T11:35:34+06:00
 description : "This is meta description"
 author: СБЕРБАНК
-brochureURL: Презентации/analiticeskij-obzor-mirovogo-rynka-robototehniki.pdf
+brochureURL: Pres/analiticeskij_obzor_mirovogo_rynka_robototehniki.pdf
 type: post
 image: images/blog/blog-pres-1.jpg
 categories: 

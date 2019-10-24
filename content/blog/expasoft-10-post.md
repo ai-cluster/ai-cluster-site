@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-30T11:35:34+06:00
 description : "This is meta description"
 author: Болдырев И.А.
-brochureURL: Expasoft/Семантические_протоколы_в_энергетике.pdf
+brochureURL: Expasoft/Semant_prot_venergetike.pdf
 type: post
 image: images/blog/blog-expasoft-10.jpg
 categories: 

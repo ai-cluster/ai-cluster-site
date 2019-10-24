@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-31T11:35:34+06:00
 description : "This is meta description"
 author: Группа компаний	Eyeline
-brochureURL: Презентации/NDC aggregator для авиакомпании.pdf
+brochureURL: Pres/NDC_aggregator_aviacompany.pdf
 type: post
 image: images/blog/blog-pres-5.jpg
 categories: 

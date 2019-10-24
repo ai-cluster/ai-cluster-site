@@ -8,10 +8,10 @@ tag : Экономические новости
 # image : images/project/project-8.jpg
 image : images/article/smi-4.jpg
 # client : Baximco Ltd.
-category : Экономические новости
-# expertise : Mobile App
+# category : Экономические новости
+expertise : Mobile App
 liveDemoURL : '#'
-caseStudy : 'http://kremlin.ru/events/president/news/61559'
+caseStudy :  '#'
 type : article
 # type : project
 filterCategories: Экономические-новости

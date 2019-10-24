@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-25T11:35:34+06:00
 description : "This is meta description"
 author: Витяев Е.Е.
-brochureURL: статьи Витяева/Статья Витяева explanable_deep_learning.pdf
+brochureURL: Vitjaev/explanable_deep_learning.pdf
 type: post
 image: images/blog/blog-vityaev-2.jpg
 categories: 

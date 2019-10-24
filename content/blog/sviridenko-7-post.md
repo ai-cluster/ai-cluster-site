@@ -4,11 +4,10 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-13T11:35:34+06:00
 description : "This is meta description"
 author: д.ф.-м.н. СВИРИДЕНКО ДМИТРИЙ, Академик РАН, ГОНЧАРОВ СЕРГЕЙ 
-brochureURL: Презентации/Семантическое_моделирование_Гончаров.pdf
+brochureURL: Pres/Semant_modeling_goncharov.pdf
 type: post
 image: images/blog/blog-sviridenko-7.jpg
-categories: 
-  - "Статьи/презентации Свириденко Д.И."
+categories:
   - "Семантика"
   - "Презентации"
 tags:

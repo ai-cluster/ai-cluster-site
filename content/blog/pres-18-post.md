@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-15T11:35:34+06:00
 description : "This is meta description"
 author: Болдырев И.А.
-brochureURL: Презентации/Статья в Инженерную газету 07.05.18.pdf
+brochureURL: Pres/Statja_v_inj_gazety.pdf
 type: post
 image: images/blog/blog-pres-18.jpg
 categories: 

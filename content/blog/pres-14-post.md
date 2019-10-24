@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-08T11:35:34+06:00
 description : "This is meta description"
 author: АНО «ИНФОРМАЦИОННО-СЕМАНТИЧЕСКОЕ ОБЩЕСТВО»
-brochureURL: Презентации/Роботы 1.pdf
+brochureURL: Pres/Roboty_1.pdf
 type: post
 image: images/blog/blog-pres-14.jpg
 categories: 

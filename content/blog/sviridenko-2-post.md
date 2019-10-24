@@ -4,11 +4,11 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-31T11:35:34+06:00
 description : "This is meta description"
 author: д.ф.-м.н. Свириденко Д.И.
-brochureURL: Презентации/ИИ и ТРИЗ - Свириденко.pdf
+brochureURL: Pres/ai_i_triz.pdf
 type: post
 image: images/blog/blog-sviridenko-2.jpg
 categories: 
-  - "Статьи/презентации Свириденко Д.И."
+  - "Презентации"
 tags:
 ---
 

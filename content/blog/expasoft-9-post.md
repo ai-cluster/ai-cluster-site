@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-30T11:35:34+06:00
 description : "This is meta description"
 author: АНО «ИНФОРМАЦИОННО-СЕМАНТИЧЕСКОЕ ОБЩЕСТВО»
-brochureURL: Expasoft/Программный_комплекс_Автоматизация.pdf
+brochureURL: Expasoft/Progr_kompl_avtomatizacia.pdf
 type: post
 image: images/blog/blog-expasoft-9.jpg
 categories: 
