@@ -4,13 +4,12 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-08T11:35:34+06:00
 description : "This is meta description"
 author: д.ф.-м.н. Свириденко Д.И.
-brochureURL: Презентации/СЕМАНТИЧЕСКИЕ смарт-контракты.pdf
+brochureURL: Pres/semant_smart_contracts.pdf
 type: post
 image: images/blog/blog-sviridenko-5.jpg
 categories: 
-  - "Статьи/презентации Свириденко Д.И."
-  - "Семантика"
   - "Статьи"
+  - "Семантика"
 tags:
   - "Semantic smart contracts"
 ---

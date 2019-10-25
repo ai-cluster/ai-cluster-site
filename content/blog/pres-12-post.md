@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-07T11:35:34+06:00
 description : "This is meta description"
 author: Группа компаний	Eyeline
-brochureURL: Презентации/Презентация_платформы_ESDP_для_управления.pdf
+brochureURL: Pres/Pres_platf_ESDP_upravl.pdf
 type: post
 image: images/blog/blog-pres-12.jpg
 categories: 

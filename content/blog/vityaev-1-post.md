@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-25T11:35:34+06:00
 description : "This is meta description"
 author: Витяев Е.Е.
-brochureURL: статьи Витяева/FINANCE_Data_mining_in_finance_Advances.pdf
+brochureURL: Vitjaev/FINANCE_Data_mining_in_finance_Advances.pdf
 type: post
 image: images/blog/blog-vityaev-1.jpg
 categories: 

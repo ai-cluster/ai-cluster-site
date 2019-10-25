@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-07T11:35:34+06:00
 description : "This is meta description"
 author: АНО «ИНФОРМАЦИОННО-СЕМАНТИЧЕСКОЕ ОБЩЕСТВО»
-brochureURL: Презентации/Презентация_Сквозные_технологии.pdf
+brochureURL: Pres/Pres_skvoz_texn.pdf
 type: post
 image: images/blog/blog-pres-13.jpg
 categories: 

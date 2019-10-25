@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-29T11:35:34+06:00
 description : "This is meta description"
 author: intermobility
-brochureURL: Expasoft/Концепция_развития_электротранспорта.pdf
+brochureURL: Expasoft/Koncept_rasv_elektrotransp.pdf
 type: post
 image: images/blog/blog-expasoft-5.jpg
 categories: 

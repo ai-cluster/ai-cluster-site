@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-29T11:35:34+06:00
 description : "This is meta description"
 author: Группа компаний	Eyeline
-brochureURL: Expasoft/Методичка для разработчиков.pdf
+brochureURL: Expasoft/Metod_razrab.pdf
 type: post
 image: images/blog/blog-expasoft-6.jpg
 categories: 

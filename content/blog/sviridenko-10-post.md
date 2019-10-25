@@ -4,11 +4,10 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-15T11:35:34+06:00
 description : "This is meta description"
 author: д.ф.-м.н. СВИРИДЕНКО Д.И. 
-brochureURL: Презентации/Цифровизация и блокчейн-06-04-18.pdf
+brochureURL: Pres/cifrov_i_blockchain.pdf
 type: post
 image: images/blog/blog-sviridenko-10.jpg
-categories: 
-  - "Статьи/презентации Свириденко Д.И."
+categories:
   - "Презентации"
 tags:
   - "Semantic modelling"

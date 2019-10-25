@@ -4,11 +4,10 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-15T11:35:34+06:00
 description : "This is meta description"
 author: д.ф.-м.н. СВИРИДЕНКО Д.И. 
-brochureURL: Презентации/СМ и ТРИЗ.pdf
+brochureURL: Pres/cm_i_triz.pdf
 type: post
 image: images/blog/blog-sviridenko-9.jpg
-categories: 
-  - "Статьи/презентации Свириденко Д.И."
+categories:
   - "Статьи"
 tags:
   - "Semantic modelling" 

@@ -4,7 +4,7 @@ bgImage: images/background/page-title.jpg
 date: 2019-07-31T11:35:34+06:00
 description : "This is meta description"
 author: АНО «ИНФОРМАЦИОННО-СЕМАНТИЧЕСКОЕ ОБЩЕСТВО»
-brochureURL: Презентации/ESDP_платформа_автоматизации_принятия.pdf
+brochureURL: Pres/ESDP_platf_avtom_prin.pdf
 type: post
 image: images/blog/blog-pres-4.jpg
 categories: 

@@ -4,11 +4,10 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-15T11:35:34+06:00
 description : "This is meta description"
 author: д.ф.-м.н. СВИРИДЕНКО Д.И. 
-brochureURL: Презентации/ЧТО ТАКОЕ ТРИЗ (1).pdf
+brochureURL: Pres/triz_1.pdf
 type: post
 image: images/blog/blog-sviridenko-11.jpg
-categories: 
-  - "Статьи/презентации Свириденко Д.И."
+categories:
   - "Статьи"
 tags:
  

@@ -4,11 +4,11 @@ bgImage: images/background/page-title.jpg
 date: 2019-08-07T11:35:34+06:00
 description : "This is meta description"
 author: д.ф.-м.н. Свириденко Д.И.
-brochureURL: Презентации/РИСКИ ЦИФРОВИЗАЦИИ-12-04-19.pdf
+brochureURL: Pres/riski_cifrovizacii.pdf
 type: post
 image: images/blog/blog-sviridenko-4.jpg
 categories: 
-  - "Статьи/презентации Свириденко Д.И."
+  - "Презентации"
 tags:
   - "Digitalization"
 ---
