@@ -44,10 +44,10 @@ philosophy1 :
   #   [[Languages.ru.params.about.listLeft]]
   #   listItem = "IT Control Solutions"
 
-  btn :
-    enable : true
-    btnText : Подробнее
-    btnURL : "#"
+  # btn :
+  #   enable : true
+  #   btnText : Подробнее
+  #   btnURL : "#"
 
 funfacts : 
   enable : true

@@ -1,0 +1,43 @@
+enable : true
+titleSM : Организационная Структура
+title : АНО - Информационно-семантического общества
+image : images/ano-structure.png
+# sliderItem :
+#   - icon : ti-quote-left
+#     content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
+#     name : Julia Robertson
+#     designation : Happy Clients
+    
+#   - icon : ti-quote-left
+#     content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
+#     name : Julia Robertson
+#     designation : Happy Clients
+    
+#   - icon : ti-quote-left
+#     content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
+#     name : Julia Robertson
+#     designation : Happy Clients
+accordion :
+  - ID : collapseSeven
+    title : Совет АНО
+    # description :  Создать платформу для коммерциализации наукоемких технологий (deep tech) в области Семантического Искусственного Интеллекта (трансфер технологий).
+    
+  - ID : collapseEight
+    title : Совет по индустриальным партнерам
+    # description : Мы опираемся на методику интеграции образования, науки и производства - "Треугольник Лаврентьева", разработанный еще в СССР академиком М.А. Лаврентьевым, всемирно-известным ученым, основателем Новосибирского Научного центра.
+    
+  - ID : collapseNine
+    title : Ученый совет
+    # description : Треугольник Лаврентьева доказал свою эффективность еще в СССР. Но мы хотим дополнить его современными финансовыми инструментами. Мы уже сотрудничаем с фондом KAMAFLOW и будем рады новым инвестиционным партнерам.
+
+  - ID : collapseFour
+    title : Совет по образованию
+    # description : Треугольник Лаврентьева доказал свою эффективность еще в СССР. Но мы хотим дополнить его современными финансовыми инструментами. Мы уже сотрудничаем с фондом KAMAFLOW и будем рады новым инвестиционным партнерам.
+
+  - ID : collapseFive
+    title : Совет по международной кооперации
+    # description : Треугольник Лаврентьева доказал свою эффективность еще в СССР. Но мы хотим дополнить его современными финансовыми инструментами. Мы уже сотрудничаем с фондом KAMAFLOW и будем рады новым инвестиционным партнерам.
+    
+  - ID : collapseSix
+    title : Совет по финансовой поддержке
+    # description : Треугольник Лаврентьева доказал свою эффективность еще в СССР. Но мы хотим дополнить его современными финансовыми инструментами. Мы уже сотрудничаем с фондом KAMAFLOW и будем рады новым инвестиционным партнерам.
