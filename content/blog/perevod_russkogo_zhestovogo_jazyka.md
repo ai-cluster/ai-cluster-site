@@ -2,7 +2,7 @@
 title: "Машинный перевод русского жестового языка. Проблемы и перспективы."
 bgImage: images/background/page-title.jpg
 date: 2019-12-27T11:35:34+06:00
-description : "This is meta description"
+description : "Машинный перевод русского жестового языка. Проблемы и перспективы"
 author: АНО «ИНФОРМАЦИОННО-СЕМАНТИЧЕСКОЕ ОБЩЕСТВО»
 # brochureURL: Expasoft/ANGIONIKA_V3.pdf
 type: npo
