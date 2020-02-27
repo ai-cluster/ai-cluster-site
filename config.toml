@@ -237,7 +237,7 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
       subscribeContent = "АНО - Информационно-семантическое общество по развитию математических исследований"
 
       # copyright
-      copyright = "ai-cluster.ru</span> &copy; 2019 All Right Reserved"
+      copyright = "ai-cluster.ru</span> &copy; 2020 All Right Reserved"
 
         # social icon
         # [[Languages.ru.params.footer.socialIcon]]
@@ -498,7 +498,7 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
       subscribeContent = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 
       # copyright
-      copyright = "semant.org</span> &copy; 2019 All Right Reserved"
+      copyright = "ai-cluster.ru </span> &copy; 2020 All Right Reserved"
 
         # social icon
         # [[Languages.en.params.footer.socialIcon]]
@@ -759,7 +759,7 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
       subscribeContent = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 
       # copyright
-      copyright = "Semant.org</span> &copy; 2019 All Right Reserved"
+      copyright = "ai-cluster.ru/ </span> &copy; 2019 - 2020 All Right Reserved"
                                                
         # social icon
         # [[Languages.fr.params.footer.socialIcon]]
