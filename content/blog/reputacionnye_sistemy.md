@@ -6,7 +6,7 @@ description : "Репутационные системы в децентрали
 author: Колонин Антон 
 brochureURL: http://aigents.com/papers/2019/Reputation-System-for-Online-Platforms-2019-ru.pdf
 type:  post
-image: images/blog/pres_potapov.JPG
+image: images/blog/pres-kolonin1.jpg
 categories: 
   - "Презентации"
 tags:

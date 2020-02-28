@@ -6,7 +6,7 @@ description : "Объяснимое самообучение естествен�
 author: Колонин Антон 
 brochureURL: http://aigents.com/papers/2019/ExplainableLanguageProcessing2019.pdf
 type:  post
-image: images/blog/pres_potapov.JPG
+image: images/blog/pres-kolonin2.jpg
 categories: 
   - "Презентации"
 tags:
