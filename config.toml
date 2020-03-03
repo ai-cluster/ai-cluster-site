@@ -46,22 +46,44 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
 
   # navigation
   [Languages.ru.menu]
-      
+
     [[Languages.ru.menu.nav]]
-    # name = "About"
-    name = "Наша миссия"
-    URL = "/about"
     weight = 2
-    
+    name = "О нас"
+    hasChildren = true
+      
+      [[Languages.ru.menu.nav]]
+      parent = "О нас"
+      name = "Наша миссия"
+      URL = "/about"
+
+      [[Languages.ru.menu.nav]]
+      parent = "О нас"
+      name = "Проекты"
+      URL = "/service"
+
     [[Languages.ru.menu.nav]]
-    name = "Проекты"
-    # name = "Service"
-    URL = "/service"
     weight = 3
+    # name = "Pages"
+    name = "События"
+    hasChildren = true
+
+      [[Languages.ru.menu.nav]]
+      # parent = "Pages"
+      parent = "События"
+      # name = "Project"
+      name = "Конференция 20 февраля, 2020"
+      URL = "https://ai-cluster.ru/conf/"
+    
+    # [[Languages.ru.menu.nav]]
+    # name = "Проекты"
+    # # name = "Service"
+    # URL = "/service"
+    # weight = 7
     
     [[Languages.ru.menu.nav]]
     # name = "Blog"
-    name = "Наши Новости/Статьи"
+    name = "Новости"
     URL = "/blog"
     weight = 4
 
@@ -71,11 +93,11 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
     URL = "/article"
     weight = 5
     
-    [[Languages.ru.menu.nav]]
-    # name = "Team"
-    name = "Команда"
-    URL = "/team"
-    weight = 7
+    # [[Languages.ru.menu.nav]]
+    # # name = "Team"
+    # name = "Команда"
+    # URL = "/team"
+    # weight = 7
     
     # [[Languages.ru.menu.nav]]
     # name = "Pricing"
@@ -86,9 +108,9 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
     
     [[Languages.ru.menu.nav]]
     # name = "Contact"
-    name = "Контакты"
-    URL = "/contact"
-    weight = 6
+    # name = "Контакты"
+    # URL = "/contact"
+    # weight = 6
 
     # [[Languages.ru.menu.nav]]
     # weight = 5
@@ -118,9 +140,10 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
 
 
       # Quote Button
-      # [Languages.ru.params.quoteBtn]
-      # enable = true
-      # btnText = "Russian language"
+      [Languages.ru.params.quoteBtn]
+      enable = true
+      btnText = "Контакты"
+      btnURL = "/contact"
       # btnURL = "/fr/"
 
       # about
@@ -133,8 +156,8 @@ mailchimpFormName = "b_ceb1e37d329147705560caae4_ba8ba1e3b3" # replace this code
       description = "В отличие от нейронных сетей и других методов машинного обучения, Семантический ИИ (Explainable AI, Semantic AI) способен «объяснить» свой выбор решения, а человек способен это объяснение «понять», потому что Семантический ИИ основан на тех же принципах, что и мышление человека – логических правилах."      
       [Languages.ru.params.about.btn]
       enable = true
-      btnText = "Подробнее"
-      btnURL = "posts/elaboration"
+      # btnText = "Подробнее"
+      # btnURL = "posts/elaboration"
 
         [[Languages.ru.params.about.listLeft]]
         # listItem = "Business Services"
