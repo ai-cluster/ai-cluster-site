@@ -2,7 +2,7 @@
 # title: "Finance Consultancy"
 title: "Цифровая трансформация бизнеса и искусственный интеллект"
 date: 2020-03-03T14:48:03+06:00
-description : "This is meta description"
+description : "Конференция: Цифровая трансформация бизнеса и искусственный интеллект"
 bgImage: images/background/page-title.jpg
 tag : Искусственный интеллект, Цифровизация
 # image : images/project/project-8.JPG
