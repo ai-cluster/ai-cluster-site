@@ -6,7 +6,7 @@ sliderItem:
     description1 : 20-21 Февраля, 2020 провели конференцию <br><br> «Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества.»
     # bgImage : images/banner/banner-1.jpg
     bgImage : images/banner/banner-conf.jpg
-    # dataIcon : ti-comments
+    dataIcon : ti-microphone
     # dataIcon : ti-package
     # dataIcon : ti-money
     dataText : Конференция
@@ -21,9 +21,9 @@ sliderItem:
     description1 : Мы соединяем науку, образование и производство. <br><br> Решаем задачи индустриальных партнеров с помощью методов Искусственного Интеллекта.
     # bgImage : images/banner/banner-1.jpg
     bgImage : images/banner/banner-13-my.jpg
-    dataIcon : ti-comments
+    # dataIcon : ti-comments
     # dataIcon : ti-package
-    # dataIcon : ti-money
+    dataIcon : ti-loop
     dataText : AI кластер
     btn : 
       enable : true
@@ -37,7 +37,7 @@ sliderItem:
     # bgImage : images/banner/banner-2.jpg
     bgImage : images/banner/banner-23-my.jpg
     # dataIcon : ti-bar-chart
-    dataIcon : ti-package
+    dataIcon : ti-light-bulb
     dataText : Индустриальные партнеры
     btn : 
       enable : true
@@ -50,7 +50,7 @@ sliderItem:
     # bgImage : images/banner/banner-3.jpg
     bgImage : images/banner/banner-31-my.jpg
     # dataIcon : ti-money
-    dataIcon : ti-package
+    dataIcon : ti-support
     dataText : Наука и Производство
     btn : 
       enable : true
@@ -62,7 +62,7 @@ sliderItem:
     description1 : НГУ является элементом инновационной инфраструктуры НСО и РФ. <br> <br> Наша цель - <br> обеспечить комплексное развитие инновационной экосистемы университета, синхронизацию работы с объектами инновационной инфраструктуры региона, а также развитие кооперации НГУ с высокотехнологичным бизнесом.
     # bgImage : images/banner/banner-4.jpg
     bgImage : images/banner/banner-42-my.jpg
-    dataIcon : ti-package
+    dataIcon : ti-ruler-pencil
     dataText : Образование
     btn : 
       enable : true
