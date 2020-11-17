@@ -8,10 +8,10 @@ git rm -r .
 cd ..
 
 # Build the project. if using a theme, replace with `hugo -t <YOURTHEME>`
-hugo -b https://ai-cluster.github.io
+./hugo -b https://ai-cluster.github.io
 
 # Go To Public folder
-cd public
+cd ./public
 # Add changes to git.
 git add .
 
